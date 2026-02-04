@@ -15,18 +15,9 @@
 - **Tools & Platforms:**  
   Codeforces • LeetCode • GitHub
 
-
 ## Competitive Programming Profiles
 - 🔹 [**Codeforces**](https://codeforces.com/profile/anatoli01) 
 - 🔹 [**LeetCode**](https://leetcode.com/anatoli01)
-
-## 📊 Stats & Activity
-
-### Codeforces
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anatoli01&theme=default)
-
-### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/anatoli01?theme=light&font=Karma)
 
 ## Goals
 - Reach higher Codeforces rating
