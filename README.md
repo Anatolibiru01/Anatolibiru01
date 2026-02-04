@@ -9,9 +9,8 @@
 - Passionate about **algorithmic thinking**
 - Actively solving problems on **Codeforces** and **LeetCode**
 - Interested in **efficient, clean, and optimized code**
-- Believe in discipline > motivation
 
-## Tech Stack
+## Tech Skill
 - **Languages:** Python, C++
 - **Core Skills:**
   - Data Structures & Algorithms
@@ -22,8 +21,8 @@
 
 
 ## Competitive Programming Profiles
-- 🔹 [**Codeforces:**](https://codeforces.com/profile/anatoli01) 
-- 🔹 [**LeetCode:**](https://leetcode.com/anatoli01)
+- 🔹 [**Codeforces**](https://codeforces.com/profile/anatoli01) 
+- 🔹 [**LeetCode**](https://leetcode.com/anatoli01)
 
 ## 📊 Stats & Activity
 
