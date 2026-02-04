@@ -1,13 +1,9 @@
 # Hi👋 , I'm Anatoli Biru
 
-**Computer Science Enthusiast | Software engineering student at ASTU**  
-🚀 Focused on algorithms, data structures, and problem-solving  
-📈 Learning consistently through Codeforces & LeetCode
-
-
 ## About Me
+**Computer Science Enthusiast | Software engineering student at ASTU**  
 - Passionate about **algorithmic thinking**
-- Actively solving problems on **Codeforces** and **LeetCode**
+- Actively learning and solving problems on **Codeforces** and **LeetCode**
 - Interested in **efficient, clean, and optimized code**
 
 ## Tech Skill
